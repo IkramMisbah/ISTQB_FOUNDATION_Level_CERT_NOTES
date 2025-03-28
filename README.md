@@ -21,4 +21,12 @@ Cette formation couvre les concepts clés du testing et constitue une première 
 
 ## Objectif de ce document
 
-Ce document a pour objectif de récapituler les points essentiels de la formation ISTQB Foundation Level. Il peut
+Ce document a pour objectif de récapituler les points essentiels de la formation ISTQB Foundation Level. Il peut être utilisé comme support de révision ou comme référence rapide pour les professionnels et étudiants intéressés par le domaine du **Quality Assurance (QA)** et du **testing logiciel**.
+
+---
+
+**Note :** Ce fichier est basé sur la formation Udemy que j'ai suivie dans le cadre de ma préparation à la certification ISTQB Foundation Level. Il contient mes notes personnelles pour m'aider à mieux assimiler et réviser le contenu de la formation.
+
+
+**BY: Ikram Misbah**
+**Gmail:ikrammisbah65@gmail.com**
